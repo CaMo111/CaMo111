@@ -6,9 +6,9 @@
 
 Software Engineer for Monash eSolutions and **Undergraduate student of Computer Science Advanced (Honours)**. Also part of **Monash DeepNeuron**, where I sit as a researcher on the NCA team for the Optimised Computing branch.
 
-## 📚
+## Currently...
 - **UX + CI/CD** focusing on BE dev @ Monash eSolutions (Internship)
-- Interning at **The German Aerospace Centre** later this year
+- Interning at **The German Aerospace Centre (Deutsches Zentrum für Luft- und Raumfahrt)** later this year to continue my research on visualising urban mobility
 - 1st Place UNIHACK 2025
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camo111&show_icons=true&locale=en" alt="camo111" /></p>
